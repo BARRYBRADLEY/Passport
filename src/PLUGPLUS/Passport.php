@@ -1,5 +1,7 @@
 <?php
-
+/**
+    * Code by @Twertik - vk.com/plugplus
+ */
 namespace PLUGPLUS;
 
 use pocketmine\plugin\PluginBase;
