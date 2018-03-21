@@ -1,0 +1,10 @@
+name: Passport
+version: 1.0
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+author: PLUGPLUS
+main: PLUGPLUS\Passport
+commands:
+    passport:
+        description: "Команда паспорта"
+        permission: passport
+        aliases: [pas, pass]
